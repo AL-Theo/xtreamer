@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "Test 2",
+      "description": "Does it work?",
+      "id": 1
+    },
+    {
+      "title": "another stream for the record",
+      "description": "instagram famous",
+      "userId": "116862342977997405081",
+      "id": 3
+    },
+    {
+      "title": "A different profile",
+      "description": "testing if it works",
+      "userId": "102028267002376957073",
+      "id": 4
+    },
+    {
+      "title": "Let's make it two",
+      "description": "To make sure it works",
+      "userId": "102028267002376957073",
+      "id": 5
+    },
+    {
+      "title": "new video",
+      "description": "thiago video",
+      "userId": "116862342977997405081",
+      "id": 6
+    }
+  ]
+}
